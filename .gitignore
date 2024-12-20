@@ -1,0 +1,4 @@
+*.o
+crypto
+.vscode/
+*.log
